@@ -45,3 +45,8 @@ References for studying
 * https://stackoverflow.com/questions/12074281/why-opencv-gpu-code-is-slower-than-cpu
 * https://www.geeks3d.com/20100606/gpu-computing-nvidia-cuda-compute-capability-comparative-table/#:~:text=The%20Compute%20Capability%20describes%20the,t%20start%20on%20your%20system.
 * https://docs.opencv.org/2.4/modules/gpu/doc/introduction.html
+
+##### Rev 1.0.1 (Test)
+
+- Trying Alexnet with Webcam feed. 
+- Displaying the classified label for the same. 
